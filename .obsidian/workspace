@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "c29a968d56bbac49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b8140d40138821",
+        "type": "leaf",
+        "dimension": 50.973751058425066,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-linalg.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c55e78ea4f7bd433",
+        "type": "leaf",
+        "dimension": 49.026248941574934,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0-syllabus.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3cd815cb17f6ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "685a2652d96d8eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d361937967079966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9354a1662f97a02a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "eac60e96b13e0467",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b6d2a9a712994dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2610272a7177287",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a894a2892a8af224",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "70c52effdcaeec9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c55e78ea4f7bd433",
+  "lastOpenFiles": [
+    "0-syllabus.md",
+    "1-linalg.md",
+    "1-linalg/s-dimension-sum-subspace.md",
+    "1-linalg/d-direct-sum.md",
+    "0-general/d-set-theory.md",
+    "1-linalg/d-vector-space.md",
+    "1-linalg/r2-scalar-field.md",
+    "0-general/d-characteristic-field.md",
+    "0-general/d-field.md",
+    "0-general/d-group.md"
+  ]
+}
