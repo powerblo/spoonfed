@@ -6,7 +6,7 @@
       {
         "id": "c2b8140d40138821",
         "type": "leaf",
-        "dimension": 50.973751058425066,
+        "dimension": 55.800169348010165,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +19,11 @@
       {
         "id": "c55e78ea4f7bd433",
         "type": "leaf",
-        "dimension": 49.026248941574934,
+        "dimension": 44.19983065198984,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "1-linalg/s-dimension-sum-subspace.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-linalg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c55e78ea4f7bd433",
+  "active": "c2b8140d40138821",
   "lastOpenFiles": [
-    "README.md",
-    "1-linalg/primer-0.md",
-    "notes.md",
     "1-linalg.md",
-    "0-syllabus.md",
     "1-linalg/s-dimension-sum-subspace.md",
-    "1-linalg/d-direct-sum.md",
-    "0-general/d-set-theory.md",
-    "1-linalg/d-vector-space.md",
-    "1-linalg/r2-scalar-field.md"
+    "1-linalg/s-properties-of-vector-spaces.md",
+    "0-general/d-algebraic-structure.md",
+    "0-general/d-ideal.md",
+    "0-general/d-ring.md",
+    "0-general/d-characteristic-field.md",
+    "0-general/d-field.md",
+    "0-general/d-group.md",
+    "0-general/r1-axioms.md"
   ]
 }
