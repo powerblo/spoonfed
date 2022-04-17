@@ -14,6 +14,7 @@ This series was written with Obsidian with the following plugins;
 - [dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - [obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
 - [obsidian-hypothesis](https://github.com/weichenw/obsidian-hypothesis-plugin)
+
 and certain features like viewing material directly from pdfs might not work as intended without Obsidian or the plugins above.
 
 ### PSETS

@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-linalg/primer-0.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/primer-0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +119,9 @@
   },
   "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
+    "README.md",
     "1-linalg/primer-0.md",
     "notes.md",
-    "README.md",
     "1-linalg.md",
     "0-syllabus.md",
     "1-linalg/s-dimension-sum-subspace.md",

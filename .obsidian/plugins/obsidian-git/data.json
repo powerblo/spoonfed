@@ -15,6 +15,7 @@
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
-  "refreshSourceControl": true
+  "treeStructure": true,
+  "refreshSourceControl": true,
+  "basePath": ""
 }
