@@ -4,10 +4,9 @@ Spoonfed is an Obsidian Zettelkasten for teaching/studying maths.
 It contains short expository articles (primers) for first time studying, notes linking to material/external resources in a wiki style, and problems (psets) for quick testing/further studying.
 
 Each material is composed of a single page divided into chapters.
+
 Currently ongoing projects : 
 - Linear Algebra
-
-Completed projects : 
 
 It's best to treat the series as supplementary material to a textbook/lecture to accompany you on your journey; some extra reading to ease the effort of working through a course. While effort has been put into provide enough material in an accessible manner, much of the material isn't really structured for a linear reading; it's closer to a wiki/FAQ than a real textbook. Nothing can replace taking a textbook and working through its material and exercises!
 

@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0-syllabus.md",
+            "file": "1-linalg/primer-0.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-syllabus.md",
+                "file": "1-linalg/primer-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
-    "0-syllabus.md",
+    "1-linalg/primer-0.md",
+    "notes.md",
+    "README.md",
     "1-linalg.md",
+    "0-syllabus.md",
     "1-linalg/s-dimension-sum-subspace.md",
     "1-linalg/d-direct-sum.md",
     "0-general/d-set-theory.md",
     "1-linalg/d-vector-space.md",
-    "1-linalg/r2-scalar-field.md",
-    "0-general/d-characteristic-field.md",
-    "0-general/d-field.md",
-    "0-general/d-group.md"
+    "1-linalg/r2-scalar-field.md"
   ]
 }
