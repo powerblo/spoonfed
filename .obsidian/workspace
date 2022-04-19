@@ -6,28 +6,47 @@
       {
         "id": "c2b8140d40138821",
         "type": "leaf",
-        "dimension": 55.800169348010165,
+        "dimension": 57.070279424216764,
         "state": {
           "type": "markdown",
           "state": {
             "file": "1-linalg.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "c55e78ea4f7bd433",
-        "type": "leaf",
-        "dimension": 44.19983065198984,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1-linalg/s-dimension-sum-subspace.md",
             "mode": "source",
             "source": false
           }
         }
+      },
+      {
+        "id": "aafece5d7b4a174b",
+        "type": "split",
+        "dimension": 42.929720575783236,
+        "children": [
+          {
+            "id": "c55e78ea4f7bd433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-linalg/1-basis-arb-vs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5798623ff10b4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-linalg/solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -120,14 +139,14 @@
   "active": "c2b8140d40138821",
   "lastOpenFiles": [
     "1-linalg.md",
+    "1-linalg/solutions.md",
+    "1-linalg/s-bases-equal-length.md",
+    "1-linalg/d-dimension.md",
+    "1-linalg/1-basis-arb-vs.md",
     "1-linalg/s-dimension-sum-subspace.md",
     "1-linalg/s-properties-of-vector-spaces.md",
     "0-general/d-algebraic-structure.md",
     "0-general/d-ideal.md",
-    "0-general/d-ring.md",
-    "0-general/d-characteristic-field.md",
-    "0-general/d-field.md",
-    "0-general/d-group.md",
-    "0-general/r1-axioms.md"
+    "0-general/d-ring.md"
   ]
 }

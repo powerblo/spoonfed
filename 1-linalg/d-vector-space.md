@@ -3,7 +3,7 @@ A **vector space** is a set $V$ and a [[r2-scalar-field|scalar field]] $\mathbb{
 - **Commutativity** : (For all $u,v\in V$) $u+v=v+u$
 - **Associativity I** : (For all $u,v,w\in V$) $(u+v)+w=u+(v+w)$
 - **Associativity II** : (For all $v\in V, a,b\in\mathbb{F}$) $(ab)\cdot v=a\cdot(b\cdot v)$
-- **Additive Identity** : There exists an element $0_V\in V$ such that (for all $v\in V$) $v+0_V=v$.
+- **Additive Identity** : There exists an element $0_V\in V$ such that (for all $v\in V$) $v+0_V=v$. ^31a50e
 - **Additive Inverse** : For all $v\in V$, there exists an element $(-v)\in V$ such that $v+(-v)=0_V$.
 - **Multiplicative Identity** : For the multiplicative identity $1_\mathbb{F}\in\mathbb{F}$, (for all $v\in V$) $1_F\cdot v=v$
 - **Distributivity I** : (For all $a\in\mathbb{F}, u,v\in V$) $a\cdot(u+v)=a\cdot u+a\cdot v$
