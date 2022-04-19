@@ -12,7 +12,7 @@
           "state": {
             "file": "1-linalg.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/1-basis-arb-vs.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/solutions.md",
+                "file": "1-linalg/d-linear-map.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,14 +139,14 @@
   "active": "c2b8140d40138821",
   "lastOpenFiles": [
     "1-linalg.md",
+    "1-linalg/d-linear-map.md",
+    "notes.md",
+    "1-linalg/1-basis-arb-vs.md",
     "1-linalg/solutions.md",
     "1-linalg/s-bases-equal-length.md",
     "1-linalg/d-dimension.md",
-    "1-linalg/1-basis-arb-vs.md",
     "1-linalg/s-dimension-sum-subspace.md",
     "1-linalg/s-properties-of-vector-spaces.md",
-    "0-general/d-algebraic-structure.md",
-    "0-general/d-ideal.md",
-    "0-general/d-ring.md"
+    "0-general/d-algebraic-structure.md"
   ]
 }

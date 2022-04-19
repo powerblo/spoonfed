@@ -246,15 +246,36 @@ What we have discussed in the primer motivates the definition of a linear map, w
 - **Definition** : Linear Map, with remarks
 <br />
 
-As expected, this definition leads to us being able to characterise the linear map 
-
-### **Vector Space of Linear Maps**
+As expected, this definition leads to us being able to uniquely characterise the linear map if we know its values for the basis of the domain.
+- **Statement** : Characterisation of Linear Map via Basis
 
 ## Invertibility
 ### **Kernels and Images**
+Linear maps are intimately related to the domain and range space it maps on.
+The **kernel** or **null space** of a linear map is the set of all vectors in the domain in which the map equals 0; as the name suggests, it forms a subspace of the domain.
+- **Definition** : Kernel, with remarks
+- **Statement** : Kernel is Subspace
+The kernel is intimately related to injectivity of a linear map.
+- **Statement** : Injectivity Iff Trivial Null Space
 
-Surjection and Injection
+The **image** of a linear map is the set of all vectors in the range that the domain maps to, which forms a subspace of the range.
+- **Definition** : Image
+
+A major result involving the relation between a linear map and its domain and range is the **rank-nullity theorem**. Rank and nullity simply refers to the dimension of the image and kernel. 
+This theorem states that a sense of "conservation of dimensionality" occurs for every linear map; a vector is either "conserved" (and is mapped to the image) or is "compressed" (and belongs to the kernel).
+- **Definition** : Rank and Nullity
+- **Theorem** : Rank-Nullity
+- **Resources** : The famed [[#^29dcba|diagram]] on dimensionality. 
+- **Resources** : [MSE](https://math.stackexchange.com/a/208400), 
+
+This theorem allows us to state the limitations on the properties of a linear map by simply looking at the dimensions of the domain and range.
+- **Statement** : Map to Lesser Dimension not Injective
+- **Statement** : Map to Greater Dimension not Surjective
+- **Statement** : Existence of Injection if Range Greater Dimension
+- **Statement** : Existence of Surjection if Range Lesser Dimension
+
 ### **Invertible Maps**
+Finally, we reach the 
 
 ### **Isomorphic Vector Spaces**
 
@@ -278,15 +299,29 @@ Fix a collection $\{v_i\}^n_{i=1}$ of vectors $v_i\in V$
 <br />
 
 ## Linear Maps as Matrices
+### **Space of Linear Maps and Linear Maps as Matrices**
+In the case of linear maps between finite dimensional vector spaces, maps can be represented in the form of matrices. This gives us the advantage of being able to express many of the results in the previous section using more natural language, whether it be proofs involving linear combinations or the properties of linear maps themselves.
+
+To begin with, we state an interesting property of linear maps; by equipping the entire set of linear maps between two vector spaces with component-wise addition and scalar multiplication, we can give this set a vector space structure itself.
+
+Next, we observe that for linear maps between finite dimensional vector spaces, the property of the linear map being uniquely determined by its values at basis vectors of the domain is intimately connected with the representation of a linear map as a matrix.
+
 ### **Change of Basis**
 
 ### **Systems of Linear Equations**
 
 ### **Elementary Matrix Operations**
 
+### **RREF and Gauss-Jordan Elimination**
+
+Many proofs we have investigated involving manipulation of linear combinations can be considerably simplified if we 
+- **Statement** : Alternative Proofs Using Gauss-Jordan Form
+  Brilliant wiki
 ## PSET II
 ### **TF**
 1. For every linear transformation $T\in\mathcal{L}(V)$, there exist bases $\beta,\gamma$ of $V$ such that the matrix $[T]_\beta^\gamma$ is diagonal.
+<br />
+
 # III : Diagonalisation
 ## Primer
 Now we move on to the second major topic of linear algebra. 
@@ -388,3 +423,6 @@ Exercises used in psets picked from other texts are sourced;
 2. S. Treil (2017), Linear Algebra Done Wrong, Self-published
 3. S. Roman (2008), Advanced Linear Algebra, *Springer*
 4. S. H. Friedberg, A. J. Insel, L. E. Spence (1989), Linear Algebra, *Prentice-Hall*
+
+# Gallery
+- ![rank-nullity](res/Rank-nullity.png) ^29dcba
