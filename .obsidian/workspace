@@ -6,31 +6,27 @@
       {
         "id": "c2b8140d40138821",
         "type": "leaf",
-        "dimension": 57.070279424216764,
+        "dimension": 57.07027942421676,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-linalg.md",
+            "file": "1-linalg/i-vector-spaces.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
       {
         "id": "aafece5d7b4a174b",
         "type": "split",
-        "dimension": 42.929720575783236,
+        "dimension": 42.92972057578324,
         "children": [
           {
             "id": "c55e78ea4f7bd433",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -39,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/d-linear-map.md",
+                "file": "0-general/def/d-algebraic-structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c2b8140d40138821",
+  "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
+    "1-linalg/i-vector-spaces.md",
+    "0-general/def/d-algebraic-structure.md",
+    "0-general/article/0-set-theory.md",
+    "1-linalg/remark/r-scalar-field.md",
+    "1-linalg/remark/r-operations.md",
     "1-linalg.md",
-    "1-linalg/d-linear-map.md",
-    "notes.md",
-    "1-linalg/1-basis-arb-vs.md",
-    "1-linalg/solutions.md",
-    "1-linalg/s-bases-equal-length.md",
-    "1-linalg/d-dimension.md",
-    "1-linalg/s-dimension-sum-subspace.md",
-    "1-linalg/s-properties-of-vector-spaces.md",
-    "0-general/d-algebraic-structure.md"
+    "1-linalg/def/d-vector-space.md",
+    "1-linalg/def/d-linear-map.md",
+    "1-linalg/article/1-matrix-notation.md",
+    "1-linalg/def/d-dimension.md"
   ]
 }

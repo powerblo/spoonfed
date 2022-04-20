@@ -4,19 +4,62 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#notes",
+      "color": {
+        "a": 1,
+        "rgb": 16719677
+      }
+    },
+    {
+      "query": "tag:#pset",
+      "color": {
+        "a": 1,
+        "rgb": 1842204
+      }
+    },
+    {
+      "query": "tag:#article",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#statement",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#definition",
+      "color": {
+        "a": 1,
+        "rgb": 7601920
+      }
+    },
+    {
+      "query": "tag:#remark",
+      "color": {
+        "a": 1,
+        "rgb": 13102335
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.448979591836735,
+  "showArrow": true,
+  "textFadeMultiplier": 2.1,
+  "nodeSizeMultiplier": 1.06361727150538,
+  "lineSizeMultiplier": 1.69587533602151,
+  "collapse-forces": true,
+  "centerStrength": 0.44172512755102,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5087618855792589,
-  "close": false
+  "linkDistance": 319,
+  "scale": 0.2588386562181631,
+  "close": true
 }

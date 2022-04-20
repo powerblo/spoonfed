@@ -1,5 +1,0 @@
-# Remarks
-- Scalar [[d-field#D Field Axioms|fields]] have their own field [[r1-axioms|axioms]] and can be abstractly defined, but the advantage lies less in being able to describe a large class of scalar fields (seldom scalar fields other than $\mathbb{R}$ and $\mathbb{C}$ are used), and more in specifying useful properties of fields for proofs.
-- When results are expressed in terms of the abstract field $\mathbb{F}$, it means it can be proved only using the field axioms and holds for both $\mathbb{R}$ and $\mathbb{C}$ (it would also for any other field), while results that hold only in either $\mathbb{R}$ or $\mathbb{C}$ will be specified otherwise.
-- In many cases when referring to the abstract field $\mathbb{F}$, results will require that the [[d-characteristic-field|characteristic]] of $\mathbb{F}$ not equal 0.
-- One example of a field that isn't either $\mathbb{R}$ or $\mathbb{C}$ is the Boolean field, which is used in Boolean algebra. Note that even in this case, the Boolean algebra is viewed more often with the additional operation of multiplication as an algebra rather than a vector space.
