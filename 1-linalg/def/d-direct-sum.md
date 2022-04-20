@@ -6,7 +6,7 @@ The definition holds for any collection of subsets $\{S_i\}_{i\in I}$; the sum o
 # D : Direct Sum
 (Let $U$ and $W$ be two subspaces of a vector space $V$.) The sum of the two subspaces $U+W$ is a **direct sum** if $U\cap W=\{0\}$.
 If the sum is a direct sum, the notation $U\oplus W$ is used to signify it is a direct sum.
-The definition holds for any collection of subspaces $\{U_i\}_{i\in I}$ if for each $i\in I$, $U_i\cap(\sum_{j\neq i}U_j)=\{0\}$. The notation $\bigoplus_{i\in I}U_i$ is used to signify it is a direct sum.
+The definition holds for any collection of subspaces $\{U_i\}_{i\in I}$ if for each $i\in I$, $U_i\cap(\sum_{j\neq i}U_j)=\{0\}$. The notation $\bigoplus_{i\in I}U_i$ is used to express it is a direct sum.
 
 # D : Internal Direct Sum
 A vector space $V$ is the **internal direct sum** of subspaces $U$ and $W$ if $V=U\oplus W$.

@@ -10,12 +10,16 @@ It might not come as a surprise to you that if this map happens to"preserve this
 We can do even better! As we expect linear maps to in some way preserve linear independence, we obtain a very useful method to express the range only using basis elements of the domain.
 
 ## Linear Maps
-What we have discussed in the primer motivates the definition of a linear map, which preserves both addition and scalar multiplication. 
+What we have discussed in the primer motivates the definition of a **linear map**, which preserves both addition and scalar multiplication.
+A linear map from a vector space to itself is specifically called an [[1-qmech|operator]].
 - **Definition** : Linear Map, with remarks
 <br />
 
-As expected, this definition leads to us being able to uniquely characterise the linear map if we know its values for the basis of the domain.
+As is with maps, **composition** can be defined given that the range of the inner function agrees with the domain of the outer function.
+
+As expected, this definition leads to us being able to *uniquely characterise the linear map* if we know its values for the basis of the domain.
 - **Statement** : Characterisation of Linear Map via Basis
+<br />
 
 ## Invertibility
 ### **Kernels and Images**

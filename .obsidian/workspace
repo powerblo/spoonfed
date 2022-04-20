@@ -6,11 +6,11 @@
       {
         "id": "c2b8140d40138821",
         "type": "leaf",
-        "dimension": 57.07027942421676,
+        "dimension": 53.852667231160034,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-linalg/i-vector-spaces.md",
+            "file": "1-linalg/ii-linear-maps.md",
             "mode": "source",
             "source": false
           }
@@ -19,23 +19,29 @@
       {
         "id": "aafece5d7b4a174b",
         "type": "split",
-        "dimension": 42.92972057578324,
+        "dimension": 46.147332768839966,
         "children": [
           {
             "id": "c55e78ea4f7bd433",
             "type": "leaf",
+            "dimension": 50,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-linalg/def/d-subspace.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "b5798623ff10b4c7",
             "type": "leaf",
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-general/def/d-algebraic-structure.md",
+                "file": "1-linalg/pset/pset-iii.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-linalg/ii-linear-maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c55e78ea4f7bd433",
+  "active": "c2b8140d40138821",
   "lastOpenFiles": [
+    "1-linalg/ii-linear-maps.md",
+    "1-linalg/pset/pset-iii.md",
+    "1-linalg/def/d-subspace.md",
+    "1-linalg/sols/sol-ii.md",
     "1-linalg/i-vector-spaces.md",
-    "0-general/def/d-algebraic-structure.md",
-    "0-general/article/0-set-theory.md",
+    "1-linalg/pset/pset-i.md",
     "1-linalg/remark/r-scalar-field.md",
-    "1-linalg/remark/r-operations.md",
-    "1-linalg.md",
+    "1-linalg/pset/pset-ii.md",
     "1-linalg/def/d-vector-space.md",
-    "1-linalg/def/d-linear-map.md",
-    "1-linalg/article/1-matrix-notation.md",
-    "1-linalg/def/d-dimension.md"
+    "1-linalg/remark/r-notation-conventions.md"
   ]
 }
