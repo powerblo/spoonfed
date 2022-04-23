@@ -154,8 +154,8 @@ Subspaces have a natural connection with the span of a collection of vectors. If
 - **Statement** : Direct Sum Implies Unique Sum Representation
 <br />
 
-We can construct new subspaces through direct sums of subspaces, but the surprising fact is that given a subspace, we can decompose the vector space into a direct sum involving this subspace. This decomposition is extremely useful, and as in this [article](https://brilliant.org/wiki/subspace/), the idea of subspaces is prevalent across several areas of math.
-- **Statement** : Decomposition into Direct Sum
+We can construct new subspaces through direct sums of subspaces, but the surprising fact is that given a subspace, we can decompose the vector space into a direct sum involving this subspace. We call the "remainder" the **complementary subspace.** This decomposition is extremely useful, and as in this [article](https://brilliant.org/wiki/subspace/), the idea of subspaces is prevalent across several areas of math.
+- **Statement** : Decomposition into Direct Sum (Existence of Complementary Subspace)
 <br />
 
 Finally, there are equations involving the dimension of the sum of subspaces, which should remind you of the cardinality of the union of sets. 

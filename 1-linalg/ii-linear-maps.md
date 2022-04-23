@@ -63,6 +63,13 @@ To begin with, we state an interesting property of linear maps; by equipping the
 
 Next, we observe that for linear maps between finite dimensional vector spaces, the property of the linear map being uniquely determined by its values at basis vectors of the domain is intimately connected with the representation of a linear map as a matrix.
 
+Some various comparisons can be drawn;
+- **Statement** : Dimension of $\mathcal{M}_{m\times n}$ and $\mathcal{L}(V,W)$
+- **Statement** : Row Space of Matrix and Range of Map
+
+Note the economy of expression where instead of "collection of vectors $\{w_j\}$ that are expressible in terms of a collection $\{v_i\}$", in which each $w_j=\sum_i A_{ij}v_i$, we can write a matrix $A$ with components $A_{ij}$.
+Concepts like the row/column space and this economy of expression will come handy when dealing with proofs related to finite-dimensional maps.
+
 ### **Change of Basis**
 
 ### **Systems of Linear Equations**

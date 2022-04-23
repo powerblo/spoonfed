@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-linalg/ii-linear-maps.md",
+            "file": "1-linalg/i-vector-spaces.md",
             "mode": "source",
             "source": false
           }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/def/d-subspace.md",
+                "file": "1-linalg/def/d-vector-space.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/pset/pset-iii.md",
+                "file": "1-linalg/pset/pset-v.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/ii-linear-maps.md",
+                "file": "1-linalg/def/d-vector-space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c2b8140d40138821",
+  "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
+    "1-linalg/def/d-vector-space.md",
+    "1-linalg/pset/pset-v.md",
+    "1-linalg/def/s-decomposition-direct-sum.md",
+    "1-linalg/remark/r-operations.md",
+    "1-linalg/i-vector-spaces.md",
     "1-linalg/ii-linear-maps.md",
     "1-linalg/pset/pset-iii.md",
-    "1-linalg/def/d-subspace.md",
-    "1-linalg/sols/sol-ii.md",
-    "1-linalg/i-vector-spaces.md",
-    "1-linalg/pset/pset-i.md",
-    "1-linalg/remark/r-scalar-field.md",
-    "1-linalg/pset/pset-ii.md",
-    "1-linalg/def/d-vector-space.md",
-    "1-linalg/remark/r-notation-conventions.md"
+    "1-linalg/iii-diagonalisation.md",
+    "1-linalg/pset/pset-iv.md",
+    "1-linalg/sols/sol-iii.md"
   ]
 }

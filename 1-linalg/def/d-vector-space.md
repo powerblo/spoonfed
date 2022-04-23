@@ -14,6 +14,7 @@ A **vector space** is a set $V$ and a [[r-scalar-field|scalar field]] $\mathbb{F
 - A vector is defined to be an element of a vector space; which means even when we refer to an element $v\in V$, we implicitly acknoweldge the two operations.
 - Scalar multiplication and multiplication in the field are written with different notation in this definition for clarify; it is convention to write scalar multiplication without $\cdot$.
 - The vector space consisting solely of the additional identity $\{0\}$ is referred to as the trivial vector space. ^49ab4e
+- The field $\mathbb{F}$ itself can be considered a vector space over $\mathbb{F}$.
 # Related
 - Algebraic Structure
 - Algebra
