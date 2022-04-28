@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/pset/pset-iv.md",
+                "file": "1-linalg/pset/pset-i.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/def/d-dimension.md",
+                "file": "1-linalg/pset/pset-i.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-linalg/def/d-dimension.md",
+                "file": "1-linalg/pset/pset-i.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "c55e78ea4f7bd433",
+  "active": "b5798623ff10b4c7",
   "lastOpenFiles": [
-    "1-linalg/def/d-dimension.md",
-    "1-linalg/i-vector-spaces.md",
+    "1-linalg/pset/pset-i.md",
+    "source/i-vector-spaces.md",
     "1-linalg/pset/pset-iv.md",
+    "1-linalg/i-vector-spaces.md",
+    "1-linalg/def/d-dimension.md",
     "1-linalg/pset/pset-iii.md",
     "1-linalg/pset/pset-ii.md",
-    "1-linalg/pset/pset-i.md",
     "Day Planners/Day Planner-20220428.md",
     "1-linalg.md",
-    "syllabus.md",
-    "1-linalg/pset/pset-v.md"
+    "syllabus.md"
   ]
 }
