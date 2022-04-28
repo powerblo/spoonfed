@@ -39,5 +39,19 @@ For this reason, a lot of books on this list are available online for free, whic
 The no-nonsense classic textbook for linear algebra; if you're in a university course, there's a good chance it's using this book.
 - Linear Algebra Done Right : Axler
 A "common sense" approach to linear algebra. It has the right amount of rigour without being overly pompous with notation, and presents material in a very concise manner.
-- *Linear Algebra Done Wrong* : Treil
-- *Linear Algebra* : Hefferon
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf?msclkid=3b094269c6dd11ec94cdad21a02a0154) : Treil
+- [Linear Algebra](https://www.algebra.com/algebra/college/linear/hefferon.pdf?msclkid=deac564dc6dc11ec9497a5c21e31b0ac) : Hefferon
+- [A First Course in Linear Algebra](http://linear.ups.edu/download/fcla-electric-2.00.pdf) : Beezer
+
+# Bibliography
+1. R. Penrose (2004), The Road to Reality, *Jonathan Cape* ^4dff5c
+2. G. B. Arfken, H. J. Weber (2005), Mathematical Methods for Physicists, *Elsevier* ^533296
+
+Many of the exercises are sourced from or inspired by the following texts. 
+1. S. Axler (2015), Linear Algebra Done Right, *Springer*
+2. S. Treil (2017), [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf?msclkid=3b094269c6dd11ec94cdad21a02a0154), Self-published
+3. S. Roman (2008), Advanced Linear Algebra, *Springer*
+4. S. H. Friedberg, A. J. Insel, L. E. Spence (1989), Linear Algebra, *Prentice-Hall*
+5. J. M. Erdman (2014), [Exercises and Problems in Linear Algebra](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf?msclkid=a1f37383c6db11ec9ca139829eee80e5), Self-published
+6. R. A. Beezer (2008), [A First Course in Linear Algebra](http://linear.ups.edu/download/fcla-electric-2.00.pdf), Self-published
+7. J. L. Kazdan, [Linear Algebra Problems](https://www2.math.upenn.edu/~kazdan/504/la.pdf?msclkid=a1f3ee9cc6db11ec84fef6304df0725c), Self-published

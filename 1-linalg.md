@@ -47,15 +47,5 @@ This [[0-primer|primer]] tells a few stories on the applications of linear algeb
 - Bilinear and Quadratic Forms
 - Hilbert Spaces
 
-# Bibliography
-1. R. Penrose (2004), The Road to Reality, *Jonathan Cape* ^4dff5c
-2. G. B. Arfken, H. J. Weber (2005), Mathematical Methods for Physicists, *Elsevier* ^533296
-
-Exercises used in psets picked from other texts are sourced;
-1. S. Axler (2015), Linear Algebra Done Right, *Springer*
-2. S. Treil (2017), Linear Algebra Done Wrong, Self-published
-3. S. Roman (2008), Advanced Linear Algebra, *Springer*
-4. S. H. Friedberg, A. J. Insel, L. E. Spence (1989), Linear Algebra, *Prentice-Hall*
-
 # Gallery
 - ![rank-nullity](res/Rank-nullity.png) ^29dcba

@@ -28,9 +28,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/def/d-vector-space.md",
+                "file": "1-linalg/pset/pset-i.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/pset/pset-v.md",
+                "file": "1-linalg.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/def/d-vector-space.md",
+                "file": "1-linalg/pset/pset-i.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,36 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0c51ce64081cae7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc380b9dc5f9f8cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97bde293440ee253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -140,15 +170,15 @@
   },
   "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
-    "1-linalg/def/d-vector-space.md",
+    "1-linalg/pset/pset-i.md",
+    "syllabus.md",
+    "1-linalg.md",
     "1-linalg/pset/pset-v.md",
+    "notes.md",
+    "1-linalg/def/d-vector-space.md",
+    "1-linalg/i-vector-spaces.md",
     "1-linalg/def/s-decomposition-direct-sum.md",
     "1-linalg/remark/r-operations.md",
-    "1-linalg/i-vector-spaces.md",
-    "1-linalg/ii-linear-maps.md",
-    "1-linalg/pset/pset-iii.md",
-    "1-linalg/iii-diagonalisation.md",
-    "1-linalg/pset/pset-iv.md",
-    "1-linalg/sols/sol-iii.md"
+    "1-linalg/ii-linear-maps.md"
   ]
 }
