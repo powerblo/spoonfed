@@ -28,9 +28,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/pset/pset-i.md",
+                "file": "1-linalg/def/d-dimension.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg.md",
+                "file": "1-linalg/pset/pset-iv.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/pset/pset-i.md",
+                "file": "1-linalg/def/d-dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,35 +116,12 @@
             }
           },
           {
-            "id": "a894a2892a8af224",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "70c52effdcaeec9a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c51ce64081cae7d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "fc380b9dc5f9f8cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-linalg/def/d-dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5
   },
   "active": "c55e78ea4f7bd433",
   "lastOpenFiles": [
+    "1-linalg/def/d-dimension.md",
+    "1-linalg/pset/pset-iv.md",
+    "1-linalg/pset/pset-iii.md",
+    "1-linalg/pset/pset-ii.md",
     "1-linalg/pset/pset-i.md",
-    "syllabus.md",
-    "1-linalg.md",
-    "1-linalg/pset/pset-v.md",
-    "notes.md",
-    "1-linalg/def/d-vector-space.md",
     "1-linalg/i-vector-spaces.md",
-    "1-linalg/def/s-decomposition-direct-sum.md",
-    "1-linalg/remark/r-operations.md",
-    "1-linalg/ii-linear-maps.md"
+    "Day Planners/Day Planner-20220428.md",
+    "1-linalg.md",
+    "syllabus.md",
+    "1-linalg/pset/pset-v.md"
   ]
 }

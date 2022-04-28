@@ -47,13 +47,9 @@ Let $T$ be an operator; $T_1,T_2,T_3\in\mathcal{L}(V)$.
 
 <br />
 
-**Additional Problems**
-**Vector Space of Linear Maps**
+**Dual Space**
 When equipped with the operations of addition and scalar multiplication [[r-operations#^ec8a19|componentwise]], the set of linear maps $\mathcal{L}(V,W)$ becomes a vector space itself.
 1. Prove that $V$ and $\mathcal{L}(\mathbb{F},V)$ is isomorphic.
 
 Define an invariant subspace $U\leq V$ of a linear map $T\in\mathcal{L}(V,W)$ to be a subspace *preserved* by $T$; $T(U)\subseteq U$.
 1. 
-
-
-**Dual Space**

@@ -25,3 +25,5 @@ Note this doesn't necessarily mean the two statements are equivalent; it's the "
 2. Additive identity axiom and additive inverse axiom : for every $v,w\in V$, there exists $a\in V$ such that $v+a=w$
 3. Additive identity axiom : vector cancellation (for all $v\in V$, $av=bv$ implies $a=b$)
 4. Additive identity axiom : exists $v\in V$ such that for all $a\in F$, $av=v$
+
+## Vectors on a Manifold

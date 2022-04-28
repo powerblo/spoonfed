@@ -1,21 +1,10 @@
 [
-  "table-editor-obsidian",
-  "obsidian-annotator",
-  "obsidian-kanban",
-  "dataview",
-  "quickadd",
-  "workbench-obsidian",
-  "obsidian-hypothesis-plugin",
-  "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-admonition",
   "obsidian-day-planner",
   "obsidian-hover-editor",
   "obsidian-latex-suite",
-  "obsidian-memos",
-  "obsidian42-brat",
   "omnisearch",
-  "periodic-notes",
   "obsidian-style-settings",
-  "calendar"
+  "obsidian-mkdocs-publisher",
+  "obsidian-git"
 ]
