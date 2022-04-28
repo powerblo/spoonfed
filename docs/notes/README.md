@@ -1,5 +1,5 @@
 ---
-share: true
+share: True
 ---
 ## Spoonfed
 Spoonfed is an Obsidian Zettelkasten for teaching/studying maths.
