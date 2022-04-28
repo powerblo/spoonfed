@@ -1,3 +1,6 @@
+---
+share: true
+---
 #notes
 # Primer
 This [[0-primer|primer]] tells a few stories on the applications of linear algebra, and gives a rundown of the topics for anyone taking linear algebra for the first time.

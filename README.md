@@ -6,7 +6,7 @@ It contains short expository articles (primers) for first time studying, notes l
 Each material is composed of a single page divided into chapters.
 
 Currently ongoing projects : 
-- Linear Algebra
+- [[1-linalg|Linear Algebra]]
 
 It's best to treat the series as supplementary material to a textbook/lecture to accompany you on your journey; some extra reading to ease the effort of working through a course. While effort has been put into provide enough material in an accessible manner, much of the material isn't really structured for a linear reading; it's closer to a wiki/FAQ than a real textbook. Nothing can replace taking a textbook and working through its material and exercises!
 
