@@ -24,7 +24,7 @@
           {
             "id": "c55e78ea4f7bd433",
             "type": "leaf",
-            "dimension": 50,
+            "dimension": 50.129533678756474,
             "state": {
               "type": "markdown",
               "state": {
@@ -37,11 +37,11 @@
           {
             "id": "b5798623ff10b4c7",
             "type": "leaf",
-            "dimension": 50,
+            "dimension": 49.870466321243526,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-linalg/pset/pset-iv.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-linalg/def/d-dimension.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-linalg/def/d-dimension.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,25 +137,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "2aa230bde0c62199",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "c55e78ea4f7bd433",
+  "active": "b5798623ff10b4c7",
   "lastOpenFiles": [
+    "README.md",
     "1-linalg/def/d-dimension.md",
+    "notes.md",
+    "1-linalg/i-vector-spaces.md",
+    "1-linalg.md",
+    "1-linalg/pset/pset-i.md",
+    "source/i-vector-spaces.md",
     "1-linalg/pset/pset-iv.md",
     "1-linalg/pset/pset-iii.md",
-    "1-linalg/pset/pset-ii.md",
-    "1-linalg/pset/pset-i.md",
-    "1-linalg/i-vector-spaces.md",
-    "Day Planners/Day Planner-20220428.md",
-    "1-linalg.md",
-    "syllabus.md",
-    "1-linalg/pset/pset-v.md"
+    "1-linalg/pset/pset-ii.md"
   ]
 }

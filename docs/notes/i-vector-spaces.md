@@ -1,7 +1,8 @@
 ---
-share: true
+share: True
 ---
-#notes
+**notes**{: #notes .hash}  
+
 [[0-primer|<- Primer]]    [[ii-linear-maps|Linear Maps ->]]
 ## Primer
 As discussed in the heading primer, linear algebra is a field that studies "linear systems". They're any system (equations, functions, algorithms etc.) that *linearly* take take an input to an output, in the fashion of the linear function $y=mx+b$.
