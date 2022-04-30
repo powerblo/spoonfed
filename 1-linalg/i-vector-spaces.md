@@ -1,6 +1,3 @@
----
-share: true
----
 #notes
 [[0-primer|<- Primer]]    [[ii-linear-maps|Linear Maps ->]]
 ## Primer
